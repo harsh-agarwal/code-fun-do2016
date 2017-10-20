@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\draw_line.cs">
+    <Files>
+      <File FileName="Assets\draw_line.cs" Line="28" Column="3" />
+      <File FileName="Assets\collison_exit_point.cs" Line="35" Column="29" />
+      <File FileName="Assets\gesture_control1.cs" Line="75" Column="31" />
+      <File FileName="Assets\gesture_control2.cs" Line="54" Column="7" />
+      <File FileName="Assets\gesture_builder3.cs" Line="73" Column="5" />
+      <File FileName="Assets\collision_exit_point2.cs" Line="38" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project 3" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="draw_line.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="New Unity Project 3" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
